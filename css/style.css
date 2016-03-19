@@ -14,6 +14,7 @@ body {
     body #game img#enemy {
       position: relative;
       top: 10;
-      border-radius: 50%; }
+      height: 10vmin;
+      width: 10vmin; }
 
 /*# sourceMappingURL=style.css.map */
