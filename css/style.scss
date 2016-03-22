@@ -9,12 +9,12 @@ body{
     overflow: hidden;
     img#tank{
       bottom: 0;
+      left:0;
       position: absolute;
       width: 10vmin;
     }
     img#enemy{
       position: relative;
-      top: 10;
       height: 10vmin;
       width: 10vmin;
     }
@@ -26,7 +26,6 @@ body{
     // height: 1vmin;
     // background-color: black;
     // right: 56vmin;
-    //
     // }
   }
 }
